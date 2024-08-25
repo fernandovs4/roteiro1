@@ -12,8 +12,9 @@ Para executar este projeto, você precisará do Python 3 instalado em seu sistem
 #### Instalação
 Clone o repositório:
 
-`
+```
 git clone https://github.com/fernandovs4/roteiro1.git
+```
 Navegue até o diretório do projeto:
 
 ```
