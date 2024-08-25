@@ -17,7 +17,7 @@ git clone https://github.com/fernandovs4/roteiro1.git
 Navegue até o diretório do projeto:
 
 ```
-cd port-scanner
+cd roteiro1
 ```
 Instale as dependências (opcional):
 
